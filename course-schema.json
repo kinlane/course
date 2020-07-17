@@ -185,8 +185,13 @@
     "version": {
       "type": "string",
       "title": "Version",
-      "description": "A video."
+      "description": "The version of the course."
     },
+    "video": {
+      "type": "string",
+      "title": "Version",
+      "description": "A video."
+    },    
     "identifier": {
       "type": "string",
       "title": "Identifier",
