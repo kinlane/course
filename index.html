@@ -1,0 +1,11 @@
+---
+layout: default
+title: Audience
+---
+
+<h1>Audience-1</h1>
+{% assign audiences = site.data.audiences %}
+
+{% for audience in site.data.audiences %}
+ {{ audience[1].name }}<br>
+{% endfor %}

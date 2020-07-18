@@ -1,0 +1,4 @@
+name: Course
+
+markdown: kramdown
+highlighter: rouge

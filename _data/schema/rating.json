@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "title": "Rating",
+  "description": "",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": ""
+    },
+    "description": {
+      "type": "string",
+      "description": ""
+    },
+    "ratingValue": {
+      "type": "string",
+      "description": ""
+    }
+  },
+  "required": [
+    "name"
+  ]
+}
