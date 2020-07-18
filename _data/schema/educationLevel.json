@@ -1,4 +1,6 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://kinlane.github.io/course/schema/educationLevel.json",  
   "type": "object",
   "title": "Credential Category",
   "description": "",
